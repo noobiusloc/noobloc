@@ -20,9 +20,9 @@
 }
 
 .wordmark-2iDDfm::before {
-   content: 'Loc + Desource';
+   content: 'Loc Desource';
    font-size: 14px;
-   z-index: 1500;
+   z-index: 1000;
    position: fixed;
    display: inline-block;
    color: var(--text--normal);
@@ -35,7 +35,7 @@
 .wordmark-2iDDfm::after {
    content: '♡';
    font-size: 14px;
-   z-index: 1500;
+   z-index: 1000;
    position: fixed;
    display: inline-block;
    color: var(--tint);
