@@ -32,7 +32,7 @@
    background-color: transparent;
 }
 
-.wordmark-2iDDfm::before {
+.wordmark-2iDDfm::after {
    content: '♡';
    font-size: 14px;
    z-index: 1000;
