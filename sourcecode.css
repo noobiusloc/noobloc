@@ -33,7 +33,7 @@
 }
 
 .wordmark-2iDDfm::after {
-   content: '♡';
+   content: '      ♡';
    font-size: 14px;
    z-index: 1000;
    position: fixed;
